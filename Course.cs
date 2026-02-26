@@ -1,4 +1,4 @@
-namespace Week4;
+namespace ConsoleApp;
 public class Course
 {
     public int Id { get; private set; }
@@ -13,4 +13,3 @@ public class Course
     }
     public string GetInfo()
         => $"Id: {Id}, Name: {Name}, Teacher: {Teacher}";
-}
