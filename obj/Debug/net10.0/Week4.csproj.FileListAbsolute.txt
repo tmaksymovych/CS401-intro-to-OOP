@@ -1,0 +1,4 @@
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.GeneratedMSBuildEditorConfig.editorconfig
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.AssemblyInfoInputs.cache
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.AssemblyInfo.cs
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.csproj.CoreCompileInputs.cache
