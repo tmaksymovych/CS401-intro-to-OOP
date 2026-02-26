@@ -10,6 +10,7 @@ public class Student
         Id = id;
         Name = name;
     }
+    public void Enroll(Course course) => EnrolledCources.Add(course);
     public string GetInfo()
-        => $"Id: {Id}, Name: {Name}, Enrolled Courses : {EnrolledCources}";
+        => $"Id: {Id}, Name: '{Name}', Enrolled Courses : {EnrolledCources}";
 }

@@ -14,5 +14,5 @@ public class Course
     }
 
     public string GetInfo()
-        => $"Id: {Id}, Name: {Name}, Teacher: {Teacher}";
+        => $"CourseId: {Id}, Course_name: {Name}, Teacher: {Teacher}";
 }

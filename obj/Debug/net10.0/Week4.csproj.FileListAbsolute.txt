@@ -3,3 +3,13 @@
 /home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.AssemblyInfo.cs
 /home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.csproj.CoreCompileInputs.cache
 /home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.sourcelink.json
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/bin/Debug/net10.0/Week4
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/bin/Debug/net10.0/Week4.deps.json
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/bin/Debug/net10.0/Week4.runtimeconfig.json
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/bin/Debug/net10.0/Week4.dll
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/bin/Debug/net10.0/Week4.pdb
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.dll
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/refint/Week4.dll
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.pdb
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/Week4.genruntimeconfig.cache
+/home/tmaksymovych/RiderProjects/ConsoleApp/Week4/obj/Debug/net10.0/ref/Week4.dll
